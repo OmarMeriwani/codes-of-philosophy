@@ -10,16 +10,7 @@ namespace Life_code
     class Program
     {
         static void Main(string[] args)
-        {
-            Thread a = new Thread(() => { Console.WriteLine("hahaha"); });
-            a.Interrupt();
-            a.Join();
-            a.Resume();
-            a.Start();
-            a.Suspend();
-
-            ThreadPool.
-            
+        {            
             
         }
     }

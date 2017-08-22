@@ -17,7 +17,7 @@ namespace Life_code
         public Country country { get; set; }
         public string relegion { get; set; }
         public double Pain { get; set; }
-        public double Love { get; set; }
+        public double Pleasure { get; set; }
         public int Knowledge { get; set; }
     }
 }

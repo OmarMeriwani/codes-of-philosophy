@@ -8,5 +8,11 @@ namespace Life_code
 {
     class Country
     {
+        int GDP;
+        int MaxTemprature;
+        int AvgTemprature;
+        int MinTemprature;
+        int CrimeRate;
+        int UnemploymentRate;
     }
 }
